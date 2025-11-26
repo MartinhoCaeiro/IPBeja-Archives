@@ -21,4 +21,7 @@ This repository is a personal archive of the coursework, projects, exercises and
 - Author: MartinhoCaeiro — https://github.com/MartinhoCaeiro
 
 (See repository for more details and per-project instructions.)
-```
+
+## License
+
+- This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).
